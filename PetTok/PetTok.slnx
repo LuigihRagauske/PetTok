@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="PetTok.API/PetTok.API.csproj" />
+  <Project Path="PetTok.App/PetTok.App.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="PetTok.SQL/PetTok.SQL.sqlproj" Id="ca3d1705-82a9-4a7a-9e78-6022fbd84afa">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

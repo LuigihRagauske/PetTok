@@ -1,0 +1,160 @@
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="PetTok.Views.LoginPage"
+    BackgroundColor="#EDEDED">
+
+    <Grid RowDefinitions="250,*">
+
+        <!-- TOPO -->
+        <Grid>
+
+            <Image
+                Source="logo.png"
+                WidthRequest="180"
+                HeightRequest="180"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+
+        </Grid>
+
+        <!-- ÁREA LARANJA -->
+
+        <Border Grid.Row="1"
+                StrokeThickness="0">
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0"
+                                     EndPoint="0,1">
+
+                    <GradientStop Color="#FF9D33"
+                                  Offset="0"/>
+
+                    <GradientStop Color="#EF6C00"
+                                  Offset="1"/>
+
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="90,0,0,0"/>
+            </Border.StrokeShape>
+
+            <ScrollView>
+
+                <VerticalStackLayout
+                    Padding="35"
+                    Spacing="25">
+
+                    <Label Text="Login"
+                           FontSize="40"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+
+                    <!-- EMAIL -->
+
+                    <Grid ColumnDefinitions="30,*">
+
+                        <Image
+                            Source="email.png"
+                            WidthRequest="20"/>
+
+                        <Entry
+                            x:Name="EmailEntry"
+                            Grid.Column="1"
+                            Placeholder="Email"
+                            Keyboard="Email"
+                            TextColor="White"
+                            PlaceholderColor="White"/>
+
+                    </Grid>
+
+                    <BoxView HeightRequest="1"
+                             Color="White"/>
+
+                    <!-- SENHA -->
+
+                    <Grid ColumnDefinitions="30,*,30">
+
+                        <Image
+                            Source="lock.png"
+                            WidthRequest="20"/>
+
+                        <Entry
+                            x:Name="SenhaEntry"
+                            Grid.Column="1"
+                            Placeholder="Senha"
+                            IsPassword="True"
+                            TextColor="White"
+                            PlaceholderColor="White"/>
+
+                        <ImageButton
+                            Grid.Column="2"
+                            Source="eye.png"
+                            BackgroundColor="Transparent"
+                            Clicked="MostrarSenha"/>
+
+                    </Grid>
+
+                    <BoxView HeightRequest="1"
+                             Color="White"/>
+
+                    <Label Text="Esqueceu sua senha?"
+                           HorizontalOptions="End"
+                           FontSize="13"
+                           TextColor="#5A2F00"/>
+
+                    <Button
+                        Text="Login"
+                        HeightRequest="55"
+                        CornerRadius="30"
+                        BackgroundColor="White"
+                        TextColor="#FF8517"
+                        FontSize="22"
+                        Clicked="Login_Clicked"/>
+
+                    <Label
+                        Text="Ou entre com"
+                        HorizontalOptions="Center"
+                        TextColor="White"/>
+
+                    <HorizontalStackLayout
+                        HorizontalOptions="Center"
+                        Spacing="30">
+
+                        <ImageButton
+                            Source="google.png"
+                            BackgroundColor="Transparent"/>
+
+                        <ImageButton
+                            Source="apple.png"
+                            BackgroundColor="Transparent"/>
+
+                        <ImageButton
+                            Source="facebook.png"
+                            BackgroundColor="Transparent"/>
+
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout HorizontalOptions="Center">
+
+                        <Label
+                            Text="Não tem uma conta?"
+                            TextColor="White"/>
+
+                        <Label
+                            Text=" Cadastre-se"
+                            TextColor="#5A2F00"
+                            FontAttributes="Bold"/>
+
+                    </HorizontalStackLayout>
+
+                </VerticalStackLayout>
+
+            </ScrollView>
+
+        </Border>
+
+    </Grid>
+
+</ContentPage>

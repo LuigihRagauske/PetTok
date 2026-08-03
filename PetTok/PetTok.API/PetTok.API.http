@@ -1,0 +1,6 @@
+@PetTok.API_HostAddress = http://localhost:5193
+
+GET {{PetTok.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

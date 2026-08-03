@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PetTok\\PetTok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "PetTok.App\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "PetTok.App\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T13:32:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroPage.xaml",
+              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
+              "RelativeDocumentMoniker": "PetTok.App\\Views\\CadastroPage.xaml",
+              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
+              "RelativeToolTip": "PetTok.App\\Views\\CadastroPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-03T13:31:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "PetTok.App\\Views\\HomePage.xaml",
+              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
+              "RelativeToolTip": "PetTok.App\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-03T13:31:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "PetTok.App\\Views\\LoginPage.xaml",
+              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "PetTok.App\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-03T13:30:42.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetTok.App",
+              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj",
+              "RelativeDocumentMoniker": "PetTok.App\\PetTok.App.csproj",
+              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj",
+              "RelativeToolTip": "PetTok.App\\PetTok.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T12:47:37.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
