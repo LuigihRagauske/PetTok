@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetTok.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5169d72831fbac7c2d9177612680a4f906316d70")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetTok.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetTok.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

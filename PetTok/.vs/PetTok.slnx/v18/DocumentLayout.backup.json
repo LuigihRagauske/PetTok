@@ -1,26 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PetTok\\PetTok\\",
+  "WorkspaceRootPath": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\data\\pettokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\data\\pettokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\controllers\\adoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\controllers\\adoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.api\\pettok.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63965CD9-1CFF-AEBF-3F40-66478DDC27C2}|PetTok.API\\PetTok.API.csproj|solutionrelative:pettok.api\\pettok.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\models\\autenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\models\\autenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|c:\\users\\etechas\\source\\repos\\pettok\\pettok\\pettok.app\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|e:\\pettok\\pettok\\pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82345B91-ED50-EA17-FA24-68B8D0877314}|PetTok.App\\PetTok.App.csproj|solutionrelative:pettok.app\\pettok.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +102,249 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\PetService.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Services\\PetService.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\PetService.cs",
+              "RelativeToolTip": "PetTok.API\\Services\\PetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\UserService.cs",
+              "RelativeToolTip": "PetTok.API\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetTok.App.csproj",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj",
+              "RelativeDocumentMoniker": "PetTok.App\\PetTok.App.csproj",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj*",
+              "RelativeToolTip": "PetTok.App\\PetTok.App.csproj*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T14:14:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "PetTok.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adoption.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\Adoption.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Models\\Adoption.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\Adoption.cs",
+              "RelativeToolTip": "PetTok.API\\Models\\Adoption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\Pet.cs",
+              "RelativeToolTip": "PetTok.API\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Models\\User.cs",
+              "RelativeToolTip": "PetTok.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "PetTok.API\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "PetTok.API\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "PetTok.API\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PetTokDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Data\\PetTokDbContext.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Data\\PetTokDbContext.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Data\\PetTokDbContext.cs",
+              "RelativeToolTip": "PetTok.API\\Data\\PetTokDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdoptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\AdoptionsController.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Controllers\\AdoptionsController.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\AdoptionsController.cs",
+              "RelativeToolTip": "PetTok.API\\Controllers\\AdoptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "PetTok.API\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PetTok.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PetTok.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PetTok.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T14:47:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PetTok.API.csproj",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj",
+              "RelativeDocumentMoniker": "PetTok.API\\PetTok.API.csproj",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj*",
+              "RelativeToolTip": "PetTok.API\\PetTok.API.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-10T14:47:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PetTok.App\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\AppShell.xaml",
+              "RelativeToolTip": "PetTok.App\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-10T12:14:12.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PetTok.App\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Models\\User.cs",
+              "RelativeToolTip": "PetTok.App\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T14:25:44.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "PetTok.App\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml.cs",
               "RelativeToolTip": "PetTok.App\\Views\\LoginPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "CadastroPage.xaml",
-              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
               "RelativeDocumentMoniker": "PetTok.App\\Views\\CadastroPage.xaml",
-              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\CadastroPage.xaml",
               "RelativeToolTip": "PetTok.App\\Views\\CadastroPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -60,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "HomePage.xaml",
-              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
               "RelativeDocumentMoniker": "PetTok.App\\Views\\HomePage.xaml",
-              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\HomePage.xaml",
               "RelativeToolTip": "PetTok.App\\Views\\HomePage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -73,29 +379,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "PetTok.App\\Views\\LoginPage.xaml",
-              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Views\\LoginPage.xaml",
               "RelativeToolTip": "PetTok.App\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-08-03T13:30:42.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PetTok.App",
-              "DocumentMoniker": "E:\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj",
-              "RelativeDocumentMoniker": "PetTok.App\\PetTok.App.csproj",
-              "ToolTip": "E:\\PetTok\\PetTok\\PetTok.App\\PetTok.App.csproj",
-              "RelativeToolTip": "PetTok.App\\PetTok.App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-03T12:47:37.639Z",
+              "DocumentIndex": 19,
+              "Title": "Autenticacao.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Models\\Autenticacao.cs",
+              "RelativeDocumentMoniker": "PetTok.App\\Models\\Autenticacao.cs",
+              "ToolTip": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.App\\Models\\Autenticacao.cs",
+              "RelativeToolTip": "PetTok.App\\Models\\Autenticacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T14:31:41.534Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

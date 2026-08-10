@@ -516,3 +516,7 @@ E:\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\pri.re
 E:\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 E:\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 E:\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\etechas\source\repos\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\PetTok.App.csproj.AssemblyReference.cache
+C:\Users\etechas\source\repos\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\PetTok.App.dll
+C:\Users\etechas\source\repos\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\refint\PetTok.App.dll
+C:\Users\etechas\source\repos\PetTok\PetTok\PetTok.App\obj\Debug\net10.0-windows10.0.19041.0\win-x64\PetTok.App.pdb

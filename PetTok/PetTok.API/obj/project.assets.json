@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj",
+      "projectUniqueName": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj",
       "projectName": "PetTok.API",
-      "projectPath": "E:\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj",
+      "projectPath": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\PetTok.API.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "E:\\PetTok\\PetTok\\PetTok.API\\obj\\",
+      "outputPath": "C:\\Users\\etechas\\source\\repos\\PetTok\\PetTok\\PetTok.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
