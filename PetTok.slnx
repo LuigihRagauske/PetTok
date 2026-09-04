@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PetTok/PetTok.Shared/PetTok.Shared.csproj" />
+  <Project Path="PetTok/PetTok.Web/PetTok.Web.csproj" />
+  <Project Path="PetTok/PetTok/PetTok.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
